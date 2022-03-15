@@ -1,0 +1,25 @@
+@import url(./fonts.css);
+@import url(./mixin.css);
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "DM Sans", sans-serif, arial;
+  display: flex;
+  justify-content: space-around;
+  color: var(--color-black);
+}
+
+a {
+  text-decoration: none;
+  color: var(--color-black);
+}
+
+li {
+  list-style: none;
+}
+
+.container {
+  width: 100%;
+  max-width: 1116px;
+}
