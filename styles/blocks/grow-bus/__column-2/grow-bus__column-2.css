@@ -1,0 +1,18 @@
+.grow-bus__column-2 {
+  position: relative;
+}
+.grow-bus__img-1 {
+  z-index: -2;
+  position: absolute;
+  top: 116px;
+  left: 56px;
+}
+.grow-bus__img-2 {
+  z-index: -1;
+  position: absolute;
+  top: 421px;
+  left: 381px;
+}
+.grow-bus__img-3 {
+  z-index: 0;
+}

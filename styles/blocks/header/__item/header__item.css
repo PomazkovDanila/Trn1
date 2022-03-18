@@ -1,0 +1,9 @@
+.header__item {
+  margin: 0 25px;
+  padding-bottom: 10px;
+  border-bottom: solid 2px transparent;
+  transition: 1s;
+}
+.header__item:hover {
+  border-bottom: solid 2px var(--color-blue);
+}

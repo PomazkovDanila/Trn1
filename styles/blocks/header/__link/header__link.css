@@ -1,0 +1,7 @@
+.header__link {
+  color: var(--color-gray);
+  transition: 1s;
+}
+.header__link:hover {
+  color: var(--color-black);
+}

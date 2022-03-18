@@ -1,0 +1,16 @@
+.header__button {
+  display: block;
+  background-color: var(--color-orange);
+  border-radius: 10px;
+  color: var(--color-white);
+  font-size: 17px;
+  text-align: center;
+  padding: 19px 60px;
+  transition: 1s;
+  border: solid 1px transparent;
+}
+.header__button:hover {
+  background-color: var(--color-white);
+  color: var(--color-orange);
+  border: solid 1px var(--color-orange);
+}

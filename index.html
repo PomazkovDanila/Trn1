@@ -7,64 +7,80 @@
     <title>logoipsum'</title>
     <link rel="stylesheet" href="./styles/styles.css" />
   </head>
-  <body>
+  <body class="index">
     <div class="container">
       <header class="header">
         <a href="#">
           <img src="./src/nav-logo.svg" alt="logoipsum" />
         </a>
         <nav class="header__navigation">
-          <ul class="navigation">
-            <li class="navigation__element">
-              <a href="#" class="navigation__link">Home</a>
+          <ul class="header__list">
+            <li class="header__item">
+              <a href="#" class="header__link">Home</a>
             </li>
-            <li class="navigation__element">
-              <a href="#" class="navigation__link">Features</a>
+            <li class="header__item">
+              <a href="#" class="header__link">Features</a>
             </li>
-            <li class="navigation__element">
-              <a href="#" class="navigation__link">Pricing</a>
+            <li class="header__item">
+              <a href="#" class="header__link">Pricing</a>
             </li>
-            <li class="navigation__element">
-              <a href="#" class="navigation__link">Blog</a>
+            <li class="header__item">
+              <a href="#" class="header__link">Blog</a>
             </li>
           </ul>
         </nav>
         <a href="#" class="header__button">Get Started</a>
       </header>
-      <section>
-        <div>
-          <h2>Grow your subscription business</h2>
-          <p>
+      <section class="grow-bus">
+        <div class="grow-bus__column-1">
+          <h2 class="grow-bus__headline">Grow your subscription business</h2>
+          <p class="grow-bus__article">
             Outcome-centered products that reduce churn, optimize pricing, and
             grow your subscription business end-to-end.
           </p>
-          <a href="#">Get started</a>
-          <!-- ? think about how to create that down button -->
-          <span>></span>
+          <div class="grow-bus__button-section">
+            <a href="#" class="grow-bus__button">Get started</a>
+            <!-- ? think about how to create that down button -->
+            <button class="grow-bus__next-button"></button>
+          </div>
         </div>
-        <div>
-          <!-- TODO: make group image -->
+        <div class="grow-bus__column-2">
+          <img src="./src/stand_2.png" class="grow-bus__img-1" />
+          <img src="./src/bubble_2.png" class="grow-bus__img-2" />
+          <img src="./src/pose_7.png" class="grow-bus__img-3" />
         </div>
       </section>
-      <section>
-        <ul>
-          <li>
-            <a href="#"><img src="#" alt="logoipsum" /></a>
+      <!-- ! Do all next block -->
+      <section class="partners">
+        <ul class="partners__list">
+          <li partners__item>
+            <a href="#" class="partners__link"
+              ><img src="./src/Group.svg" alt="logoipsum"
+            /></a>
           </li>
           <li>
-            <a href="#"><img src="#" alt="logoipsum" /></a>
+            <a href="#" class="partners__link"
+              ><img src="./src/Group-1.svg" alt="logoipsum"
+            /></a>
           </li>
           <li>
-            <a href="#"><img src="#" alt="logoipsum" /></a>
+            <a href="#" class="partners__link"
+              ><img src="./src/Group-2.svg" alt="logoipsum"
+            /></a>
           </li>
           <li>
-            <a href="#"><img src="#" alt="logoipsum" /></a>
+            <a href="#" class="partners__link"
+              ><img src="./src/Group-3.svg" alt="logoipsum"
+            /></a>
           </li>
           <li>
-            <a href="#"><img src="#" alt="logoipsum" /></a>
+            <a href="#" class="partners__link"
+              ><img src="./src/Group-4.svg" alt="logoipsum"
+            /></a>
           </li>
         </ul>
       </section>
+      <!-- ! Do all previos block -->
       <section>
         <div>
           <img src="#" />
