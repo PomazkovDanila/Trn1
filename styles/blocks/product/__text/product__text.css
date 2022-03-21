@@ -1,0 +1,9 @@
+.product__text {
+  margin-top: 28px;
+  font-family: "Mulish", Arial, Helvetica, sans-serif;
+  font-size: 17px;
+  color: var(--color-gray);
+}
+.product__text_center {
+  color: #ffffff;
+}

@@ -1,0 +1,17 @@
+.product__switch {
+  cursor: pointer;
+  width: 160px;
+  height: 55px;
+  border: none;
+  border-radius: 10px 0 0 10px;
+  background-color: var(--color-blue);
+  font-size: 16px;
+  color: var(--color-white);
+}
+.product__switch:last-of-type {
+  border-radius: 0 10px 10px 0;
+}
+.product__switch_noactive {
+  background-color: transparent;
+  color: var(--color-black);
+}

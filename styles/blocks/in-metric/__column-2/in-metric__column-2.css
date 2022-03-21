@@ -1,0 +1,12 @@
+.in-metric__column-2 {
+  width: 346px;
+  position: relative;
+}
+.in-metric__img-1 {
+}
+.in-metric__img-2 {
+  position: absolute;
+  top: 19px;
+  left: 139px;
+  z-index: -1;
+}

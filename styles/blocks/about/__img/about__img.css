@@ -1,0 +1,16 @@
+.about__img {
+  content: "";
+  display: block;
+  width: 151px;
+  height: 97px;
+  background-size: cover;
+}
+.about__img_1 {
+  background-image: url(../../../../src/Icon-001.png);
+}
+.about__img_2 {
+  background-image: url(../../../../src/Icon-002.png);
+}
+.about__img_3 {
+  background-image: url(../../../../src/Icon-003.png);
+}

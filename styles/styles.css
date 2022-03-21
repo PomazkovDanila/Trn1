@@ -24,3 +24,37 @@
 @import url(./blocks/partners/partners.css);
 @import url(./blocks/partners/__list/partners__list.css);
 @import url(./blocks/partners/__link/partners__link.css);
+/* sub-index */
+@import url(./blocks/sub-index/sub-index.css);
+@import url(./blocks/sub-index/__column-1/sub-index__column-1.css);
+@import url(./blocks/sub-index/__column-2/sub-index__column-2.css);
+@import url(./blocks/sub-index/__headline/sub-index__headline.css);
+@import url(./blocks/sub-index/__phrase/sub-index__phrase.css);
+@import url(./blocks/sub-index/__link/sub-index__link.css);
+/* in-metric */
+@import url(./blocks/in-metric/in-metric.css);
+@import url(./blocks/in-metric/__column-1/in-metric__column-1.css);
+@import url(./blocks/in-metric/__column-2/in-metric__column-2.css);
+@import url(./blocks/in-metric/__headline/in-netric__headline.css);
+@import url(./blocks/in-metric/__phrase/in-metric__phrase.css);
+@import url(./blocks/in-metric/__link/in-metric__link.css);
+/* about */
+@import url(./blocks/about/about.css);
+@import url(./blocks/about/__list/about__list.css);
+@import url(./blocks/about/__item/about__item.css);
+@import url(./blocks/about/__img/about__img.css);
+@import url(./blocks/about/__headline/about__headline.css);
+@import url(./blocks/about/__text/about__text.css);
+/* product */
+@import url(./blocks/product/product.css);
+@import url(./blocks/product/__head/product__head.css);
+@import url(./blocks/product/__headline/product__headline.css);
+@import url(./blocks/product/__period/product__period.css);
+@import url(./blocks/product/__switch/product_switch.css);
+@import url(./blocks/product/__plans/product__plans.css);
+@import url(./blocks/product/__list/product__list.css);
+@import url(./blocks/product/__item/product__item.css);
+@import url(./blocks/product/__type/product__type.css);
+@import url(./blocks/product/__price/product__price.css);
+@import url(./blocks/product/__text/product__text.css);
+@import url(./blocks/product/__button/product__button.css);

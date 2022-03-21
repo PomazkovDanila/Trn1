@@ -1,0 +1,8 @@
+.product__price {
+  margin-top: 22px;
+  font-size: 60px;
+  color: var(--color-black);
+}
+.product__price_center {
+  color: #ffffff;
+}

@@ -1,0 +1,7 @@
+.product__period {
+  padding: 5px;
+  width: 440px;
+  height: 55px;
+  background-color: var(--color-lightgray);
+  border-radius: 10px;
+}

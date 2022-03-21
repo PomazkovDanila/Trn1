@@ -1,5 +1,6 @@
-.grow-bus {
-  margin-top: 100px;
+.product__list {
+  margin-top: 82px;
+  padding: 0 20px;
   display: flex;
   justify-content: space-between;
   align-items: center;

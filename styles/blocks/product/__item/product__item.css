@@ -1,0 +1,14 @@
+.product__item {
+  width: 330px;
+  height: 441px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: var(--color-lightgray);
+  border-radius: 10px;
+}
+.product__item_center {
+  width: 376px;
+  height: 473px;
+  background-color: #ff7143;
+}

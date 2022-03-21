@@ -1,0 +1,19 @@
+.product__button {
+  margin: 36px 0 27px 0;
+  padding: 19px 0;
+  width: 285px;
+  display: block;
+  background-color: #ffffff;
+  border: solid 1px var(--color-lightgray);
+  border-radius: 10px;
+  font-size: 17px;
+  text-align: center;
+  color: var(--color-blue);
+}
+.product__button_center {
+  margin: 36px 0 43px 0;
+  width: 305px;
+  background-color: #9f3919;
+  border: solid 1px #c31a12;
+  color: #ffffff;
+}

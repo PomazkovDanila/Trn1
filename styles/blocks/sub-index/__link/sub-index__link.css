@@ -1,0 +1,8 @@
+.sub-index__link {
+  display: block;
+  margin-top: 30px;
+  width: max-content;
+
+  font-size: 17px;
+  color: var(--color-blue);
+}
