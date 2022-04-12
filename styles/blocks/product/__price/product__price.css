@@ -6,3 +6,6 @@
 .product__price_center {
   color: #ffffff;
 }
+.product__price_small {
+  font-size: 28px;
+}

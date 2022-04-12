@@ -9,6 +9,12 @@
   font-size: 17px;
   text-align: center;
   color: var(--color-blue);
+  transition: 2s;
+}
+.product__button:hover {
+  background-color: var(--color-blue);
+  border: solid 1px #ffffff;
+  color: #ffffff;
 }
 .product__button_center {
   margin: 36px 0 43px 0;
@@ -16,4 +22,9 @@
   background-color: #9f3919;
   border: solid 1px #c31a12;
   color: #ffffff;
+}
+.product__button_center:hover {
+  background-color: #ffffff;
+  border: solid 1px #c31a12;
+  color: #c31a12;
 }
