@@ -140,8 +140,18 @@
             Get the right plan for future product.
           </h3>
           <div class="product__period">
-            <button class="product__switch">Yearly</button>
-            <button class="product__switch product__switch_noactive">
+            <button
+              id="buttonPeriod1"
+              class="product__switch"
+              onclick="handleButtonClick1() "
+            >
+              Yearly
+            </button>
+            <button
+              id="buttonPeriod2"
+              class="product__switch product__switch_noactive"
+              onclick="handleButtonClick2() "
+            >
               Mounthly
             </button>
           </div>
@@ -188,4 +198,4 @@
     </div>
   </body>
 </html>
-<!-- /* ??? test */ -->
+<script src="./scripts/script.js"></script>
