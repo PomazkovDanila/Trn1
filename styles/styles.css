@@ -23,6 +23,7 @@
 /* partners */
 @import url(./blocks/partners/partners.css);
 @import url(./blocks/partners/__list/partners__list.css);
+@import url(./blocks/partners/__item/partners__item.css);
 @import url(./blocks/partners/__link/partners__link.css);
 /* sub-index */
 @import url(./blocks/sub-index/sub-index.css);
